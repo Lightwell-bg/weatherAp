@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include <weatherAP.h>
+#include <weatherAp.h>
 
 weatherAP::weatherAP(WiFiClient* client) {
     _client = client;
